@@ -7,7 +7,7 @@ Expansion board voor lampenbeheer. Bedoeld voor gebruik met een externe microcon
 - **Input:** 230V AC detectie via LTV-814 optocouplers.
 - **Output:** 30V AC sturing voor Eltako relais via Omron G5V-1 relais.
 - **Indicatie:** Debug-LED's voor logica en relaisstatus.
-- **Connectie:** 5.08mm schroefklemmen.
+
 
 ## Pinout & Adressen
 - **I2C Adres:** Standaard 0x20 (instelbaar via A0, A1, A2).
