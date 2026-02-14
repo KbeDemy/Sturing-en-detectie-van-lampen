@@ -1,4 +1,4 @@
-<img width="1724" height="930" alt="afbeelding" src="https://github.com/user-attachments/assets/06ba6e22-2d9a-4e5b-897d-36e73b35c1bd" /><img width="1724" height="930" alt="afbeelding" src="https://github.com/user-attachments/assets/06ba6e22-2d9a-4e5b-897d-36e73b35c1bd" /># I2C Uitbreiding bord - Lamp sturing & Detectie
+# I2C Uitbreiding bord - Lamp sturing & Detectie
 
 Expansion board voor lampenbeheer. Bedoeld voor gebruik met een externe microcontroller (ESP32) via I2C.
 
