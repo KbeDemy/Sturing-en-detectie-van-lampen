@@ -16,8 +16,8 @@ Expansion board voor lampenbeheer. Bedoeld voor gebruik met een externe microcon
     - 5VDC aansturen relais
     - 30VAC aansturen omron
     - 230VAC uitlezen status lamp
-- ** MCP GPA 0-7:** INPUT
-- ** MCP GPB 0-7:** OUTPUT  
+- **MCP GPA 0-7:** INPUT
+- **MCP GPB 0-7:** OUTPUT  
       
 
 
